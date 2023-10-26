@@ -1,16 +1,16 @@
 ![logo](https://github.com/BhavinShah0105/BhavinShah0105/blob/main/BHAVIN%20SHAH.png)
 <h1 align="center">Hi 👋, I'm Bhavin Shah</h1>
-<h3 align="center">An aspiring computer science engineer</h3>
+<h3 align="center">An Aspiring Computer Science Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavinshah0105&label=Profile%20views&color=0e75b6&style=flat" alt="bhavinshah0105" /> </p>
 
-- 🌱 I’m currently learning **Rectjs, Google Cloud Platform**
+- 🌱 I’m currently learning **React.js, Google Cloud Platform**
 
 - 📫 How to reach me **bhavinshah0105@gmail.com**
 
-- ⚡ Fun fact **Well, one interesting thing about me is that I'm a huge cricket fan. I love catching matches and getting out on the field to play whenever I can.**
+- ⚡ Fun fact **Well, one interesting thing about me is that I'm a huge cricket fan. I love Watching matches and getting out on the field to play whenever I can.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

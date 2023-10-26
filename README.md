@@ -1,4 +1,4 @@
-
+![logo](https://github.com/BhavinShah0105/BhavinShah0105/blob/main/BHAVIN%20SHAH.png)
 <h1 align="center">Hi 👋, I'm Bhavin Shah</h1>
 <h3 align="center">An aspiring computer science engineer</h3>
 
